@@ -35,8 +35,5 @@ anchor build
 anchor deploy
 ```
 
+`If you have some questions in this project, feel free to reach out.`
 
-### Contact Information
-- Telegram: https://t.me/DevCutup
-- Whatsapp: https://wa.me/13137423660
-- Twitter: https://x.com/devcutup
