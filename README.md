@@ -35,5 +35,5 @@ anchor build
 anchor deploy
 ```
 
-`If you have some questions in this project, feel free to reach out.`
+If you have some questions in this project, feel free to reach out.
 
